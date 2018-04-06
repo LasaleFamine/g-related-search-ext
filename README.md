@@ -1,7 +1,11 @@
 # G Related Search - Chrome Extension
 <h1 align="center">
-	<img style="display: block; margin: 0 auto -20px auto; max-width: 200px;" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/g-logo.png?raw=true" alt="Google Related Search"/>
+	<div>
+		<img style="display: block; margin: 0 auto -20px auto; max-width: 200px;" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/g-logo.png?raw=true" alt="Google Related Search"/>
+	</div>
+	<div>
     <img style="display: block; margin: 0 auto; max-width: 400px;" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/related-search.png?raw=true" alt="Google Related Search"/>
+	<div>
 </h1>
 
 [![Build Status](https://travis-ci.org/LasaleFamine/g-related-search-ext.svg?branch=master)](https://travis-ci.org/LasaleFamine/g-related-search-ext)
