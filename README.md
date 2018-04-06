@@ -12,7 +12,7 @@
 
 > Get Google SERP related search from your current search. Through a Chrome Extension.
 
-<!-- ![Example Google Related Search](https://github.com/LasaleFamine/g-related-search-ext/blob/master/example.gif?raw=true) -->
+![Example Google Related Search](https://github.com/LasaleFamine/g-related-search-ext/blob/master/example.gif?raw=true)
 ## Install
 
 Chrome Extension: // TODO
