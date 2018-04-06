@@ -15,7 +15,7 @@
 ![Example Google Related Search](https://github.com/LasaleFamine/g-related-search-ext/blob/master/example.gif?raw=true)
 ## Install
 
-Chrome Extension: // TODO
+Chrome Extension: [G Related Search](https://chrome.google.com/webstore/detail/g-related-search/bojgfndidakcahnmclfmgoilaaobmeli)
 
 ## Usage
 
