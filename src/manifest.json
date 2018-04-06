@@ -1,5 +1,6 @@
 {
-  "name": "G Related Search",
+	"name": "G Related Search",
+	"short_name": "GRS",
   "permissions": ["activeTab"],
   "background": {
     "scripts": ["background.bundle.js"],
