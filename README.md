@@ -1,10 +1,10 @@
 # G Related Search - Chrome Extension
 <h1 align="center">
 	<div>
-		<img style="max-width: 100%" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/g-logo.png?raw=true" alt="Google Related Search"/>
+		<img style="max-width: 100%" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/g-logo.png?raw=true" alt="Google"/>
 	</div>
 	<div>
-    <img style="max-width: 100%" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/related-search.png?raw=true" alt="Google Related Search"/>
+    <img style="max-width: 100%" src="https://github.com/LasaleFamine/g-related-search-ext/blob/master/src/img/related-search.png?raw=true" alt="Related Search"/>
 	<div>
 </h1>
 
@@ -12,10 +12,14 @@
 
 > Get Google SERP related search from your current search. Through a Chrome Extension.
 
-<!-- TODO: gif -->
+<!-- ![Example Google Related Search](https://github.com/LasaleFamine/g-related-search-ext/blob/master/example.gif?raw=true) -->
 ## Install
 
 Chrome Extension: // TODO
+
+## Usage
+
+When you are on the Google search page, click the extension's icon or press COMMAND+SHIFT+Z (CTRL+SHIFT+Z)
 
 ## License
 
