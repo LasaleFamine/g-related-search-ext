@@ -1,60 +1,60 @@
 {
-	"name": "g-related-search-ext",
-	"version": "0.0.0",
-	"description": "Get Google SERP related search from your current search.",
-	"license": "MIT",
-	"repository": "LasaleFamine/g-related-search-ext",
-	"bugs": {
-		"url": "https://github.com/LasaleFamine/g-related-search-ext/issues",
-		"email": "info@godev.space"
-	},
-	"homepage": "https://github.com/LasaleFamine/g-related-search-ext",
-	"author": {
-		"name": "Alessio",
-		"email": "info@godev.space",
-		"url": "godev.space"
-	},
-	"engines": {
-		"node": ">=6"
-	},
-	"scripts": {
-		"release": "git pull && standard-version",
-		"build": "node scripts/pre-build.js && webpack",
-		"dev": "node scripts/pre-build.js && webpack --watch",
-		"test": "xo"
-	},
-	"files": [
-		"src"
-	],
-	"dependencies": {},
-	"devDependencies": {
-		"css-loader": "0.28.11",
-		"file-loader": "1.1.11",
-		"fs-extra": "5.0.0",
-		"html-loader": "0.5.5",
-		"html-webpack-plugin": "3.2.0",
-		"postcss-loader": "2.1.3",
-		"standard-version": "4.3.0",
-		"style-loader": "0.20.3",
-		"webpack": "3.6.0",
-		"write-file-webpack-plugin": "4.2.0",
-		"xo": "0.20.3"
-	},
-	"xo": {
-		"envs": [
-			"browser",
-			"node"
-		],
-		"rules": {
-			"import/no-unassigned-import": 0,
-			"max-len": [
-				"error",
-				{
-					"code": 110,
-					"ignoreUrls": true
-				}
-			],
-			"capitalized-comments": "off"
-		}
-	}
+  "name": "g-related-search-ext",
+  "version": "0.0.1",
+  "description": "Get Google SERP related search from your current search.",
+  "license": "MIT",
+  "repository": "LasaleFamine/g-related-search-ext",
+  "bugs": {
+    "url": "https://github.com/LasaleFamine/g-related-search-ext/issues",
+    "email": "info@godev.space"
+  },
+  "homepage": "https://github.com/LasaleFamine/g-related-search-ext",
+  "author": {
+    "name": "Alessio",
+    "email": "info@godev.space",
+    "url": "godev.space"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "release": "git pull && standard-version",
+    "build": "node scripts/pre-build.js && webpack",
+    "dev": "node scripts/pre-build.js && webpack --watch",
+    "test": "xo"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "0.28.11",
+    "file-loader": "1.1.11",
+    "fs-extra": "5.0.0",
+    "html-loader": "0.5.5",
+    "html-webpack-plugin": "3.2.0",
+    "postcss-loader": "2.1.3",
+    "standard-version": "4.3.0",
+    "style-loader": "0.20.3",
+    "webpack": "3.6.0",
+    "write-file-webpack-plugin": "4.2.0",
+    "xo": "0.20.3"
+  },
+  "xo": {
+    "envs": [
+      "browser",
+      "node"
+    ],
+    "rules": {
+      "import/no-unassigned-import": 0,
+      "max-len": [
+        "error",
+        {
+          "code": 110,
+          "ignoreUrls": true
+        }
+      ],
+      "capitalized-comments": "off"
+    }
+  }
 }
