@@ -1,6 +1,6 @@
 {
   "name": "g-related-search-ext",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get Google SERP related search from your current search.",
   "license": "MIT",
   "repository": "LasaleFamine/g-related-search-ext",
